@@ -4,6 +4,26 @@
 
 2024-07-02 ~ 2024-08- 23
 
+**결제 Service**  https://github.com/T82-encore/T82-payment.git
+
+**쿠폰 Service** https://github.com/T82-encore/T82-Coupon.git
+
+**좌석 Service** https://github.com/T82-encore/T82-Seat.git
+
+**Push 알람 Service**  https://github.com/T82-encore/T82-Push.git
+
+**회원 Service**  https://github.com/T82-encore/T82-User.git
+
+**공연 Service** https://github.com/T82-encore/T82-Event.git
+
+**댓글 Service** https://github.com/T82-encore/T82-Review.git
+
+**티켓 Service**  https://github.com/T82-encore/T82-Ticket.git
+
+**공통 예외 Service** https://github.com/T82-encore/T82-Common-Exception.git
+
+**IOS Service** https://github.com/T82-encore/IOS_T82.git
+
 ## 기획 의도
 
 이번 프로젝트의 주요 목표는 콘서트, 연극, 기타 문화 이벤트의 티켓 구매를 ‘조금 더 사용자 친화적이게 공연 예술을 지원하는 것이 어떨까?’ 라는 관점에서 출발 했습니다. **T82**는 많은 고객에게 다양한 문화 생활에 쉽게 접근할 수 있도록 하여 접근성을 높이며, 각 공연의 커뮤니티 참여를 촉진해 많은 사람들에게 문화 생활을 장려하기 위해 기획 되었습니다.
