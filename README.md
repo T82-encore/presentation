@@ -82,6 +82,8 @@ MSA의 특징인 각 서비스가 독립적으로 배포되는 것을 이용하�
 ## UserFlow
 
 ## System Architecture
+**1차 System Architecture**
+![T82 drawio (1)](https://github.com/user-attachments/assets/597ad735-acb7-4eb5-b9f8-45e743040608)
 
 ## 사용 기술
 
