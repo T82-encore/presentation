@@ -69,29 +69,31 @@ MSA의 특징인 각 서비스가 독립적으로 배포되는 것을 이용하�
 - Spring boot 3
 - Java 17
 
-1. 데이터 베이스
+2. 데이터 베이스
 - MySQL
 - Redis
 
-1. 클라우드
+3. 클라우드
 - Google Cloud Platform
 - AWS Lambda
 - AWS S3
 - AWS EKS
+- AWS API GateWay
 
-1. 컨테이너 및 오케스트레이션
+4. 컨테이너 및 오케스트레이션
 - Docker
 - Kubernetes
 
-1. CI/CD
+5. CI/CD
 - Jenkins
 
-1. 메세지 브로커
+6. 메세지 브로커
 - apache kafka
 
-1. 부하 테스트 도구
+7. 부하 테스트 도구
 - Jmeter
 
-1. API 통신 라이브러리
+8. 라이브러리
 - Feign
 - GRPC
+- jitpack
