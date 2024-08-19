@@ -11,10 +11,9 @@
 ## 협업 관리
 
 저희는 이번 협업 관리를 깃허브의 Project로 진행 하게 되었습니다.
+![image (7)](https://github.com/user-attachments/assets/cf3ee942-df71-4a50-a7cc-8782646b34b2)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4b7e0894-1b5c-4ece-b84c-1f981d8b0958/99cc8431-2574-4be4-bb35-69b0277585e4/image.png)
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4b7e0894-1b5c-4ece-b84c-1f981d8b0958/71c990f5-24df-4ba9-8230-10d26aa2796b/image.png)
+![image (8)](https://github.com/user-attachments/assets/bce5eeef-eaba-4443-ad05-1c3ae129569e)
 
 **BackLog : 매 주 마다 개발 해야 할 기능의 목록들의 집합**
 
@@ -31,14 +30,16 @@
  ****
 
 ## 디자인
+![image (9)](https://github.com/user-attachments/assets/a09c8cbe-e8c6-47a8-a21d-1d65b0ea6fc4)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4b7e0894-1b5c-4ece-b84c-1f981d8b0958/50f7a01e-9e83-4735-9c29-18447d39c083/image.png)
 
 ## ERD(1차 ~ 최종까지 변경사항)
 
 [https://eastern-orchid-c48.notion.site/T82-Making-4f2615061845453fa3d7ca755da312b7?pvs=4](https://www.notion.so/4f2615061845453fa3d7ca755da312b7?pvs=21)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4b7e0894-1b5c-4ece-b84c-1f981d8b0958/c9a9ebf3-32f9-467c-8f2c-19803dbe95e1/image.png)
+
+![image (10)](https://github.com/user-attachments/assets/1e76347a-05a1-45be-98e6-95925d6ab3f6)
+
 
 이번 프로젝트는 MSA를 도입하게 되었는데 도입하게 된 이유는 아래와 같습니다.
 
