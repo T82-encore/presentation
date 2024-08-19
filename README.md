@@ -88,10 +88,13 @@ MSA의 특징인 각 서비스가 독립적으로 배포되는 것을 이용하�
 1. 프로그래밍 언어 및 프레임워크
 - Spring boot 3
 - Java 17
+- Swift 5.1
+- SwiftUI
 
 2. 데이터 베이스
 - MySQL
 - Redis
+- Firebase
 
 3. 클라우드
 - Google Cloud Platform
@@ -106,6 +109,8 @@ MSA의 특징인 각 서비스가 독립적으로 배포되는 것을 이용하�
 
 5. CI/CD
 - Jenkins
+- Xcode Cloud
+- TestFlight
 
 6. 메세지 브로커
 - apache kafka
@@ -117,3 +122,7 @@ MSA의 특징인 각 서비스가 독립적으로 배포되는 것을 이용하�
 - Feign
 - GRPC
 - jitpack
+- Alamofire
+- PopupView
+
+
