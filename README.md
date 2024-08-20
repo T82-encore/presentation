@@ -37,6 +37,8 @@
 
 ![image (8)](https://github.com/user-attachments/assets/bce5eeef-eaba-4443-ad05-1c3ae129569e)
 
+![화면 캡처 2024-08-20 125224](https://github.com/user-attachments/assets/8303cff1-8123-482f-abae-d55c89064d1c)
+
 **BackLog : 매 주 마다 개발 해야 할 기능의 목록들의 집합**
 
 **Todo :  그 날 마다 해야 할 기능들의 집합**
