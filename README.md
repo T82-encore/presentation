@@ -126,5 +126,6 @@ MSA의 특징인 각 서비스가 독립적으로 배포되는 것을 이용하�
 - jitpack
 - Alamofire
 - PopupView
+- CoreMotion
 
 
